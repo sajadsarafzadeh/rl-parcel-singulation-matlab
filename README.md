@@ -36,4 +36,4 @@ To inspect the saved training statistics or record a demonstration, run `plot_tr
 
 This repository is a compact presentation of the main implementation and one saved run. It omits alternate environments, intermediate checkpoints, backups, and duplicate analysis scripts from the working directory. The original project also contains exploratory evaluation scripts using different agent files; their output charts are shown here for context, but those scripts are not part of the runnable core.
 
-This was developed as a Politecnico di Milano machine learning course project.
+Developed for *Machine Learning for Mechanical Systems* at Politecnico di Milano (academic year 2025/2026) by Sajad Sarafzadeh, Parsa Yarmohamadi, and Nazgol Gharsi.
