@@ -1,0 +1,17 @@
+# Generated during training and simulation
+trained_agent_video*.mp4
+agent_trained*.mat
+trainingStats*.mat
+plot.png
+
+# Keep the one curated checkpoint and its statistics
+!agent_trained_final.mat
+!trainingStats_final.mat
+
+# MATLAB autosave and OS files
+*.asv
+*.m~
+*.autosave
+*.fig
+.DS_Store
+Thumbs.db
