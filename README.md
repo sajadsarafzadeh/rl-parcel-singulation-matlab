@@ -12,7 +12,7 @@ A MATLAB reinforcement learning project for controlling a 5 × 5 array of modula
 - `agent_trained_final.mat` and `trainingStats_final.mat` — saved agent and training statistics.
 - `plot_training.m` — plot the saved episode rewards and estimated Q values.
 - `save_video_new.m` — record a short simulation with the saved agent.
-- `results/` — selected images from the project. These are illustrative outputs from the original work; the repository does not assert benchmark metrics from them.
+- `results/` — selected images and a [trained-agent demonstration video](results/trained_agent_2.mp4) from the project. These are illustrative outputs from the original work; the repository does not assert benchmark metrics from them.
 
 ## Requirements
 
